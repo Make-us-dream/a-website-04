@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/img/flags/US.png
+Disallow: /assets/img/flags/DE.png
+Disallow: /assets/img/flags/AU.png
+Disallow: /assets/img/flags/GB.png
+Disallow: /widgets/widgets.html
